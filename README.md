@@ -1,6 +1,6 @@
 # Code 2 Text
 
-![Screenshot](docs/Screenshot_2025_04_07.png)
+![Screenshot](/Screenshot_2025_04_07.png)
 
 A user-friendly tool to combine code files into organized text documents while ignoring unnecessary files like `node_modules`, 'package.lock'.
 # User Guide
